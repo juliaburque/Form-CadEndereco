@@ -28,7 +28,7 @@ Ao acessar essa ferramenta o usuário será direcionado para uma página, lá es
 - `Estado`:  E para finaliza o usuario devera colocae seu estado. 𝓔𝔁𝓮𝓶𝓹𝓵𝓸:Parana
 
 ### Tecnologia utilizada
-* HTML
-* JAVASCRIPT
-* GITHUB
-* STYLE
+* html
+* javascript
+* github
+* style
