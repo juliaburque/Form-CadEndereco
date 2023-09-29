@@ -13,3 +13,11 @@ const limparFormulario = () => {
 // Verifica se CEP é válido
 const eNumero = (numero) => /^[0-9]+$/.test(numero); //testa numero informado comexpressão regular
 const cepValido = (cep) => cep.length == 8 && eNumero(cep); //verificar tamanho do cep digitado e executa função de validação do cep eNumero
+
+//Função para preencher formuário
+const preencherFormulario = (endereco) =>{
+        document.getElementById('rua').value = endereco.logradouro;
+        document.getElementById('bairro').value = endereco.bairro;
+        document.getElementById('cidade').value = endereco.localidade;
+        document.getElementById('estado').value = endereco.uf;
+}
