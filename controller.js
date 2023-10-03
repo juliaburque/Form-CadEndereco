@@ -31,7 +31,13 @@ const pesquisarCep = async() => {
         const addres = await dados.json(); 
         //hasOwnProperty retorna um boleano indicado se o objeto possui a propriedade especificada como uma propriedade definida no próprio objeto em questão
         if(addres.hasOwnProperty('erro')){
-
-        }  
+            alert('CEP não encontrado');
+        }else{
+            preencherFormulario(addres);
+        }
+        }else{
+            alert('CEP Incorreto');
+        }
       }
-}
+//Adiciona evento DOM ao imput do CEP para executar função pesquisarCep
+document.getElementById('cep').addEventListener('focusout', pesquisarCep);
