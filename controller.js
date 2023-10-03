@@ -29,7 +29,7 @@ const pesquisarCep = async() => {
     if(cepValido(cep.value)){
         const dados = await fetch(url); //aguardar
         const addres = await dados.json(); 
-
+        //hasOwnProperty retorna um boleano indicado se o objeto possui a propriedade especificada como uma propriedade definida no próprio objeto em questão
         if(addres.hasOwnProperty('erro')){
 
         }  
