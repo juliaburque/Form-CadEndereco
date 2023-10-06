@@ -21,7 +21,7 @@ A ferramenta foi criadoa para facilitar e ajudar as empresas com suas organizaç
 ## Funcionalidades⚙️
 Ao acessar essa ferramenta o usuário será direcionado para uma página, lá está pedindo as seguintes funções, sendo elas:
 - `Cep`: O usuário terá que colocar o cep. 𝓔𝔁𝓮𝓶𝓹𝓵𝓸: 124352718  
--  `Endereço`: Esse campo será utilizado para adiconar o Endereço. 𝓔𝔁𝓮𝓶𝓹𝓵𝓸: Rua das maritacas  
+- `Endereço`: Esse campo será utilizado para adiconar o Endereço. 𝓔𝔁𝓮𝓶𝓹𝓵𝓸: Rua das maritacas  
 - `Numero`: O usuario devera colocar o numero de sua residencia. 𝓔𝔁𝓮𝓶𝓹𝓵𝓸: 123
 - `Cidade`: Aqui o úsuario devera colocar sua cidade. 𝓔𝔁𝓮𝓶𝓹𝓵𝓸: Londrina
 - `Estado`:  E para finaliza o usuario devera colocae seu estado. 𝓔𝔁𝓮𝓶𝓹𝓵𝓸:Parana
