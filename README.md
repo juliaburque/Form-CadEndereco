@@ -20,7 +20,7 @@ Ferramenta que auxilia as empresas a manter as informações organizada
 A ferramenta foi criadoa para facilitar e ajudar as empresas com suas organizações.
 
 ## Funcionalidades⚙️
-Ao acessar essa ferramenta o usuário será direcionado para uma página, onde ele colocará o cep. Ao adicionar o cep e se ele estiver correto a localidade irá aparecer, se o cep digitado estiver errado aparecerá "CEP não encontrado".
+Ao acessar essa ferramenta o usuário será direcionado para uma página, onde ele colocará o cep. Ao adicionar o cep e se ele estiver correto, a localidade irá aparecer, se o cep digitado estiver errado aparecerá "CEP não encontrado".
 
 (![image info](vídeo/v%C3%ADdeo.gif))
 
