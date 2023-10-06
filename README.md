@@ -26,9 +26,10 @@ Ao acessar essa ferramenta o usuário será direcionado para uma página, onde e
 
 ## Finalidade.
 A finalidade dessa ferramenta é após digitar o cep corretamente irá aparecer algumas informções automáticamente. 
-- `Endereço`: 𝓔𝔁𝓮𝓶𝓹𝓵𝓸: Rua das maritacas  
-- `Cidade`: 𝓔𝔁𝓮𝓶𝓹𝓵𝓸: Londrina
-- `Estado`: 𝓔𝔁𝓮𝓶𝓹𝓵𝓸:Paraná
+* 𝓔𝔁𝓮𝓶𝓹𝓵𝓸:
+- `Endereço`: Rua das maritacas  
+- `Cidade`: Londrina
+- `Estado`: Paraná
 
 
 ### Tecnologia utilizada ⌨️
