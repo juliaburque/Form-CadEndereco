@@ -29,6 +29,7 @@ A finalidade dessa ferramenta é após digitar o cep corretamente irá aparecer 
 
  𝓔𝔁𝓮𝓶𝓹𝓵𝓸:
 - `Endereço`: Rua das maritacas  
+- `Bairro`: Violin
 - `Cidade`: Londrina
 - `Estado`: Paraná
 
